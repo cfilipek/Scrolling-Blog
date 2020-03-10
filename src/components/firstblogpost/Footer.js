@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="section" />
 
         <Scene
-          indicators={true}
+          // indicators={true}
           duration="300px"
           triggerHook="onEnter"
         >
@@ -22,7 +22,7 @@ const Footer = () => {
               to = {{ opacity: 1 }}
             >
               <div className="footer-text">
-                <p>Thank you for reading my blog post. This is currently a work in progress. Onward and up!.</p>
+                <p>Thank you for reading my blog post. This is currently a work in progress. Onward and up!</p>
               </div>
             </Tween>
           </Timeline>

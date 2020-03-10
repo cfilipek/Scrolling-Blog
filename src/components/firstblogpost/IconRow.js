@@ -12,7 +12,7 @@ const IconRow = () => {
         <div className="section" />
 
         <Scene
-          indicators={true}
+          // indicators={true}
           duration="400px"
           triggerHook="onEnter"
         >

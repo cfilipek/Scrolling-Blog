@@ -1,8 +1,6 @@
 import React from 'react';
 import { Tween, Timeline } from 'react-gsap';
 import { Controller, Scene } from 'react-scrollmagic';
-import Eye from '../../assets/eye.png';
-import EyeClosed from '../../assets/eye-closed.png';
 
 const Thanks = () => {
   return (
@@ -11,7 +9,7 @@ const Thanks = () => {
         <div className="section" />
 
         <Scene
-          indicators={true}
+          // indicators={true}
           duration="100%"
           triggerHook="onEnter"
         >

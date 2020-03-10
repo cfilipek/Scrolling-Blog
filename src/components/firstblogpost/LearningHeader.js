@@ -11,7 +11,7 @@ const LearningHeader = () => {
         <div className="section" />
 
         <Scene
-          indicators={true}
+          // indicators={true}
           duration="100%"
           triggerHook="onEnter"
         >

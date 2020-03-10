@@ -9,7 +9,7 @@ const Quote = () => {
         <div className="section" />
 
         <Scene
-          indicators={true}
+          // indicators={true}
           duration="300px"
           triggerHook="onEnter"
         >

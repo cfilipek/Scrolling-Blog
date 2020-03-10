@@ -1,4 +1,4 @@
-import React, { useRef, useEffect }  from 'react';
+import React from 'react';
 import { Tween, Timeline } from 'react-gsap';
 import { Controller, Scene } from 'react-scrollmagic';
 
@@ -9,7 +9,7 @@ const Wordsoup = () => {
         <div className="section" />
 
         <Scene
-          indicators={true}
+          // indicators={true}
           duration="100%"
           triggerHook="onEnter"
         >
