@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/scrolling-blog/static/css/main.34412088.chunk.css",
-    "main.js": "/scrolling-blog/static/js/main.21bc015d.chunk.js",
-    "main.js.map": "/scrolling-blog/static/js/main.21bc015d.chunk.js.map",
-    "runtime-main.js": "/scrolling-blog/static/js/runtime-main.e937982b.js",
-    "runtime-main.js.map": "/scrolling-blog/static/js/runtime-main.e937982b.js.map",
-    "static/js/2.7a5b8426.chunk.js": "/scrolling-blog/static/js/2.7a5b8426.chunk.js",
-    "static/js/2.7a5b8426.chunk.js.map": "/scrolling-blog/static/js/2.7a5b8426.chunk.js.map",
-    "index.html": "/scrolling-blog/index.html",
-    "precache-manifest.4b9736e89c3ac6c6e1e1827ba2fe80bd.js": "/scrolling-blog/precache-manifest.4b9736e89c3ac6c6e1e1827ba2fe80bd.js",
-    "service-worker.js": "/scrolling-blog/service-worker.js",
-    "static/css/main.34412088.chunk.css.map": "/scrolling-blog/static/css/main.34412088.chunk.css.map",
-    "static/js/2.7a5b8426.chunk.js.LICENSE.txt": "/scrolling-blog/static/js/2.7a5b8426.chunk.js.LICENSE.txt",
-    "static/media/eye.png": "/scrolling-blog/static/media/eye.6bec8927.png"
+    "main.css": "/Scrolling-Blog/static/css/main.34412088.chunk.css",
+    "main.js": "/Scrolling-Blog/static/js/main.62e71454.chunk.js",
+    "main.js.map": "/Scrolling-Blog/static/js/main.62e71454.chunk.js.map",
+    "runtime-main.js": "/Scrolling-Blog/static/js/runtime-main.e30238b8.js",
+    "runtime-main.js.map": "/Scrolling-Blog/static/js/runtime-main.e30238b8.js.map",
+    "static/js/2.7a5b8426.chunk.js": "/Scrolling-Blog/static/js/2.7a5b8426.chunk.js",
+    "static/js/2.7a5b8426.chunk.js.map": "/Scrolling-Blog/static/js/2.7a5b8426.chunk.js.map",
+    "index.html": "/Scrolling-Blog/index.html",
+    "precache-manifest.e46eb18273681ef2282d7f7c95aeb784.js": "/Scrolling-Blog/precache-manifest.e46eb18273681ef2282d7f7c95aeb784.js",
+    "service-worker.js": "/Scrolling-Blog/service-worker.js",
+    "static/css/main.34412088.chunk.css.map": "/Scrolling-Blog/static/css/main.34412088.chunk.css.map",
+    "static/js/2.7a5b8426.chunk.js.LICENSE.txt": "/Scrolling-Blog/static/js/2.7a5b8426.chunk.js.LICENSE.txt",
+    "static/media/eye.png": "/Scrolling-Blog/static/media/eye.6bec8927.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e937982b.js",
+    "static/js/runtime-main.e30238b8.js",
     "static/js/2.7a5b8426.chunk.js",
     "static/css/main.34412088.chunk.css",
-    "static/js/main.21bc015d.chunk.js"
+    "static/js/main.62e71454.chunk.js"
   ]
 }
