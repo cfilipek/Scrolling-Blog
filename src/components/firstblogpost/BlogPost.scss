@@ -233,6 +233,34 @@ html {
   }
 }
 
+@media only screen and (max-width: 650px) {
+
+  .header-container {
+    margin: 0 80px;
+    margin-top: 80px;
+  }
+
+  .wordsoup-wrapper {
+    .blog-content {
+      padding: 20px 50px;
+      padding-bottom: 40px;
+    }
+  }
+
+  .thanks-wrapper {
+    padding: 0px 50px;
+  }
+
+  .content-container {
+    padding: 40px 50px;
+  }
+
+  .quote-wrapper {
+    padding: 40px 50px;
+  }
+}
+
+
 
 @media only screen and (max-width: 600px) {
   .header-container {
