@@ -2,6 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## A Scrolling Blog post
 
-This scrolling blog post was made using React, Scroll Magic and GSAP Greensocket. It's purpose was to learn these languages and document my first month working as a jr. Developer.
+This scrolling blog post was made using React, Scroll Magic and GSAP Greensocket. Its purpose was to learn these languages and document my first month working as a jr. Developer.
 
 
