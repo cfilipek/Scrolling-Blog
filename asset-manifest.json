@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Scrolling-Blog/static/css/main.34412088.chunk.css",
+    "main.css": "/Scrolling-Blog/static/css/main.c7688b5b.chunk.css",
     "main.js": "/Scrolling-Blog/static/js/main.2a62216e.chunk.js",
     "main.js.map": "/Scrolling-Blog/static/js/main.2a62216e.chunk.js.map",
     "runtime-main.js": "/Scrolling-Blog/static/js/runtime-main.e30238b8.js",
@@ -8,16 +8,16 @@
     "static/js/2.391334c2.chunk.js": "/Scrolling-Blog/static/js/2.391334c2.chunk.js",
     "static/js/2.391334c2.chunk.js.map": "/Scrolling-Blog/static/js/2.391334c2.chunk.js.map",
     "index.html": "/Scrolling-Blog/index.html",
-    "precache-manifest.945614bbf1afe3e23e270bbb66c3cda5.js": "/Scrolling-Blog/precache-manifest.945614bbf1afe3e23e270bbb66c3cda5.js",
+    "precache-manifest.ad08a1c03feb0d3444cfe3bf1887baa2.js": "/Scrolling-Blog/precache-manifest.ad08a1c03feb0d3444cfe3bf1887baa2.js",
     "service-worker.js": "/Scrolling-Blog/service-worker.js",
-    "static/css/main.34412088.chunk.css.map": "/Scrolling-Blog/static/css/main.34412088.chunk.css.map",
+    "static/css/main.c7688b5b.chunk.css.map": "/Scrolling-Blog/static/css/main.c7688b5b.chunk.css.map",
     "static/js/2.391334c2.chunk.js.LICENSE.txt": "/Scrolling-Blog/static/js/2.391334c2.chunk.js.LICENSE.txt",
     "static/media/eye.png": "/Scrolling-Blog/static/media/eye.6bec8927.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e30238b8.js",
     "static/js/2.391334c2.chunk.js",
-    "static/css/main.34412088.chunk.css",
+    "static/css/main.c7688b5b.chunk.css",
     "static/js/main.2a62216e.chunk.js"
   ]
 }

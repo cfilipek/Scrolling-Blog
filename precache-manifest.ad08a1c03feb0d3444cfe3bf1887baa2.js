@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80fc974692b8e7ec756fabc98750115a",
+    "revision": "72db4435ee67f4eccc8dbe9b53f16e91",
     "url": "/Scrolling-Blog/index.html"
   },
   {
-    "revision": "ff4055a6f0b09e001f42",
-    "url": "/Scrolling-Blog/static/css/main.34412088.chunk.css"
+    "revision": "4067be59f1afbbb1e8ae",
+    "url": "/Scrolling-Blog/static/css/main.c7688b5b.chunk.css"
   },
   {
     "revision": "1e6cdbb5ac5ed8db312d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Scrolling-Blog/static/js/2.391334c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff4055a6f0b09e001f42",
+    "revision": "4067be59f1afbbb1e8ae",
     "url": "/Scrolling-Blog/static/js/main.2a62216e.chunk.js"
   },
   {
